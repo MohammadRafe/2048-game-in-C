@@ -5,7 +5,7 @@ Features
 Game Logic: Implements the core game mechanics including merging tiles and adding random tiles after each move.
 
 Input Handling: Allows players to input moves using 'w', 'a', 's', 'd' keys for up, left, down, and right movements respectively.
-Score Tracking: Keeps track of the player's score throughout the game.
+  Score Tracking: Keeps track of the player's score throughout the game.
 Game Over Detection: Detects when the game is over when no more moves are possible.
 Usage
 Compile the code using a C compiler.
