@@ -5,21 +5,18 @@ Features
 Game Logic: Implements the core game mechanics including merging tiles and adding random tiles after each move.
 
 Input Handling: Allows players to input moves using 'w', 'a', 's', 'd' keys for up, left, down, and right movements respectively.
-  Score Tracking: Keeps track of the player's score throughout the game.
+
+Score Tracking: Keeps track of the player's score throughout the game.
+
 Game Over Detection: Detects when the game is over when no more moves are possible.
+
 Usage
 Compile the code using a C compiler.
+
 Run the compiled executable.
+
 Use the 'w', 'a', 's', 'd' keys to make moves on the board.
+
 Try to combine tiles to reach the 2048 tile.
+
 The game ends when no more moves are possible, and the final score is displayed.
-Requirements
-C Compiler (e.g., GCC)
-How to Compile
-bash
-Copy code
-gcc -o 2048_game 2048.c
-How to Run
-bash
-Copy code
-./2048_game
