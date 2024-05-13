@@ -1,4 +1,4 @@
-# 2048-game-in-C
+# 2048-game-in-C<br>
 This is a simple implementation of the popular game 2048 in C. The game is played on a 4x4 grid where the player combines tiles with the same numbers to achieve the tile with the number 2048.
 
 Features
